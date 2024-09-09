@@ -31,7 +31,7 @@ Publications & Preprints
   </tr>
   <tr>
     <td style="border: none;"><img src="/images/nips2023.png" alt="Learning better with less: effective augmentation for sample-efficient visual reinforcement learning" width="600"></td>
-    <td style="border: none;"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/bc26087d3f82e62044fc77752e86737e-Abstract-Conference.html"> Learning better with less: effective augmentation for sample-efficient</a><br> visual reinforcement learning <br>Guozheng Ma, Linrui Zhang, <strong>Haoyu Wang</strong>,  Lu Li, Zilin Wang, Zhen Wang, Li Shen, Xueqian Wang, Dacheng Tao <br><span style="font-size: 0.8em;">Advances in Neural Information Processing Systems 2023 </span> </td>
+    <td style="border: none;"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/bc26087d3f82e62044fc77752e86737e-Abstract-Conference.html"> Learning better with less: effective augmentation for sample-efficient<br> visual reinforcement learning</a> <br>Guozheng Ma, Linrui Zhang, <strong>Haoyu Wang</strong>,  Lu Li, Zilin Wang, Zhen Wang, Li Shen, Xueqian Wang, Dacheng Tao <br><span style="font-size: 0.8em;">Advances in Neural Information Processing Systems 2023 </span> </td>
   </tr>
 </table>
 
