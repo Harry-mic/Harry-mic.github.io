@@ -32,7 +32,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/fs3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mastering Massive Multi-Task Reinforcement Learning via Mixture-of-Expert Decision Transformer](https://openreview.net/forum?id=YgR8U5DSj9&referrer=%5Bthe%20profile%20of%20Li%20Shen%5D(%2Fprofile%3Fid%3D~Li_Shen1)) \\ 
+[Mastering Massive Multi-Task Reinforcement Learning via MoE Decision Transformer](https://openreview.net/forum?id=YgR8U5DSj9&referrer=%5Bthe%20profile%20of%20Li%20Shen%5D(%2Fprofile%3Fid%3D~Li_Shen1)) \\ 
 Yilun Kong, Guozheng Ma, Qi Zhao, **Haoyu Wang**, Li Shen, Xueqian Wang, Dacheng Tao
 
 </div>
