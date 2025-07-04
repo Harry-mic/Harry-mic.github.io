@@ -4,3 +4,4 @@
 - *2025.05*: 🎉 Two papers are accepted by ICML 2025
 - *2025.02*: 🎉 One paper is accepted by TMLR
 - *2024.07*: 🎉 One paper is accepted by ICML MHFAIA Workshop
+- *2023.09*: 🎉 One paper is accepted by NeurIPS 2023
