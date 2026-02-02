@@ -1,5 +1,17 @@
+# 📝 Publications and Preprints
 
-# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/fs0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Language-based Trial and Error Falls Behind in the Era of Experience](https://arxiv.org/pdf/2601.21754) \\
+**Haoyu Wang**, Guozheng Ma, Shugang Cui, Yilun Kong, Haotian Luo, Li Shen, Mengya Gao, Yichao Wu, Xiaogang Wang, Dacheng Tao
+
+[**Project**]([https://speechresearch.github.io/fastspeech/](https://github.com/Harry-mic/SCOUT)) <strong></strong>
+
+- An agentic framework of Sub-Scale Collaboration On Unseen Task(SCOUT)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/fs1.png' alt="sym" width="100%"></div></div>
