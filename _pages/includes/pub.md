@@ -7,7 +7,7 @@
 [Language-based Trial and Error Falls Behind in the Era of Experience](https://arxiv.org/pdf/2601.21754) \\
 **Haoyu Wang**, Guozheng Ma, Shugang Cui, Yilun Kong, Haotian Luo, Li Shen, Mengya Gao, Yichao Wu, Xiaogang Wang, Dacheng Tao
 
-[**Project**]([https://speechresearch.github.io/fastspeech/](https://github.com/Harry-mic/SCOUT)) <strong></strong>
+[**Project**](https://github.com/Harry-mic/SCOUT) <strong></strong>
 
 - An agentic framework of Sub-Scale Collaboration On Unseen Task(SCOUT)
 </div>
@@ -20,7 +20,7 @@
 [Lifelong Safety Alignment for Language Models](https://arxiv.org/abs/2505.20259) \\
 **Haoyu Wang**, Zeyu Qin, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang
 
-[**Project**]([https://speechresearch.github.io/fastspeech/](https://github.com/sail-sg/LifelongSafetyAlignment)) <strong></strong>
+[**Project**](https://github.com/sail-sg/LifelongSafetyAlignment) <strong></strong>
 
 - First Lifelong Safety Alignment framework for Large Language Models
 </div>
