@@ -12,15 +12,6 @@ redirect_from:
   <p class="home-kicker">Sample Efficient Agent</p>
   <h1 class="home-name">Haoyu Wang</h1>
   <p class="home-tagline">Sample efficient agentic RL for LLMs, world models, and more.</p>
-  <p class="home-links">
-    <a href="https://scholar.google.com/citations?hl=zh-CN&user=l_QMtXYAAAAJ">Google Scholar</a>
-    <span>&middot;</span>
-    <a href="https://www.linkedin.com/in/haoyu-wang-b958532a7/">LinkedIn</a>
-    <span>&middot;</span>
-    <a href="https://github.com/Harry-mic">GitHub</a>
-    <span>&middot;</span>
-    <a href="mailto:haoyu-wa22@tsinghua.org.cn">Email</a>
-  </p>
 </section>
 
 <section>
