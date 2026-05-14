@@ -50,7 +50,7 @@ My recent work focuses on safety reasoning, lifelong safety alignment, and impro
 
 <div class="publication-list">
   <article class="publication-card">
-    <img src="images/pub-scout.svg" alt="SCOUT paper thumbnail">
+    <img src="images/fs0.png" alt="SCOUT paper thumbnail">
     <div>
       <h3>Language-based Trial and Error Falls Behind in the Era of Experience</h3>
       <span class="venue">Preprint, 2026</span>
@@ -60,7 +60,7 @@ My recent work focuses on safety reasoning, lifelong safety alignment, and impro
   </article>
 
   <article class="publication-card">
-    <img src="images/pub-lifelong-safety.svg" alt="Lifelong safety alignment paper thumbnail">
+    <img src="images/fs1.png" alt="Lifelong safety alignment paper thumbnail">
     <div>
       <h3>Lifelong Safety Alignment for Language Models</h3>
       <span class="venue">NeurIPS 2025</span>
@@ -70,7 +70,7 @@ My recent work focuses on safety reasoning, lifelong safety alignment, and impro
   </article>
 
   <article class="publication-card">
-    <img src="images/pub-safety-reasoning.svg" alt="Safety reasoning paper thumbnail">
+    <img src="images/fs2.png" alt="Safety reasoning paper thumbnail">
     <div>
       <h3>Safety Reasoning with Guidelines</h3>
       <span class="venue">ICML 2025</span>
@@ -80,7 +80,7 @@ My recent work focuses on safety reasoning, lifelong safety alignment, and impro
   </article>
 
   <article class="publication-card">
-    <img src="images/pub-step-on-feet.svg" alt="Step-on-feet tuning paper thumbnail">
+    <img src="images/fs3.png" alt="Step-on-feet tuning paper thumbnail">
     <div>
       <h3>Step-on-feet Tuning: Scaling Self-alignment of LLMs via Bootstrapping</h3>
       <span class="venue">ICML MHFAIA Workshop 2024</span>
@@ -90,7 +90,7 @@ My recent work focuses on safety reasoning, lifelong safety alignment, and impro
   </article>
 
   <article class="publication-card">
-    <img src="images/pub-robustness.svg" alt="LLM robustness paper thumbnail">
+    <img src="images/fs4.png" alt="LLM robustness paper thumbnail">
     <div>
       <h3>Are Large Language Models Really Robust to Word-level Perturbations?</h3>
       <span class="venue">TMLR, 2025</span>
@@ -99,8 +99,6 @@ My recent work focuses on safety reasoning, lifelong safety alignment, and impro
     </div>
   </article>
 </div>
-
-For a complete publication list, please see my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=l_QMtXYAAAAJ).
 
 ## News
 
