@@ -11,7 +11,7 @@ redirect_from:
 <section class="home-hero">
   <p class="home-kicker">AI Safety and Alignment</p>
   <h1 class="home-name">Haoyu Wang</h1>
-  <p class="home-tagline">Building reliable and safe large language models through alignment and synthetic-data-driven learning.</p>
+  <p class="home-tagline">Sample efficient agentic RL for LLMs, world models, and more.</p>
   <p class="home-links">
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=l_QMtXYAAAAJ">Google Scholar</a>
     <span>&middot;</span>
@@ -23,28 +23,44 @@ redirect_from:
   </p>
 </section>
 
-## About
-
-I am an incoming researcher working on AI alignment and safety for large language models. I received my M.S. from Tsinghua University (SIGS), advised by Prof. Xueqian Wang, and my B.Eng. from Xi'an Jiaotong University.
-
-My recent work focuses on safety reasoning, lifelong safety alignment, and improving model behavior with synthetic feedback and experience.
-
-## Research Focus
-
-<div class="focus-grid">
-  <div class="focus-card">
-    <h3>LLM Safety Alignment</h3>
-    <p>Training and evaluation methods that make language models reliably follow safety principles under distribution shift.</p>
-  </div>
-  <div class="focus-card">
-    <h3>Safety Reasoning</h3>
-    <p>Eliciting and strengthening internal safety reasoning to improve robustness against jailbreak and adversarial prompts.</p>
-  </div>
-  <div class="focus-card">
-    <h3>Synthetic Data for Improvement</h3>
-    <p>Using model-generated experience and feedback loops to scale post-training and self-improvement.</p>
-  </div>
-</div>
+<section>
+      <h2>About</h2>
+      <p>
+        I am currently a research associate and an incoming PhD in Nanyang Technological University (NTU), advised by Prof. Dacheng Tao. I am currently working on Agentic RL for LLMs. Before that, I received my M.S. from Tsinghua University
+        (SIGS), advised by Prof. Xueqian Wang, and my B.Eng. from Xi'an
+        Jiaotong University.
+      </p>
+      <p>
+        My recent work focuses on safety reasoning, lifelong safety alignment,
+        and improving model behavior with synthetic feedback and experience.
+      </p>
+    </section>
+  
+<section>
+      <h2>Research Focus</h2>
+      <div class="focus-grid">
+        <article class="focus-card">
+          <h3>Efficient Trial and Error for LLMs</h3>
+          <p>
+            Using small sub-agents to help the LLM explore, while maintaining the explotation of the LLM via its pretrained knowledge.
+          </p>
+        </article>
+        <article class="focus-card">
+          <h3>LLM Safety Alignment</h3>
+          <p>
+            Training and evaluation methods that make language models reliably
+            follow safety principles under distribution shift.
+          </p>
+        </article>
+        <article class="focus-card">
+          <h3>Safety Reasoning</h3>
+          <p>
+            Eliciting and strengthening internal safety reasoning to improve
+            robustness against jailbreak and adversarial prompts.
+          </p>
+        </article>
+      </div>
+    </section>
 
 ## Selected Publications
 
