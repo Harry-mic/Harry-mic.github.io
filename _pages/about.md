@@ -117,6 +117,7 @@ redirect_from:
 
 ## News
 
+- **2026.05**: Three papers accepted by ICML 2026.
 - **2025.09**: One paper accepted by NeurIPS 2025.
 - **2025.05**: Two papers accepted by ICML 2025.
 - **2025.02**: One paper accepted by TMLR.
@@ -124,6 +125,9 @@ redirect_from:
 
 ## Experience and Education
 
+
+- **2026.08 - 2029.07**: PhD Student, Nanyang Technological University.</li>
+- **2025.09 - present**: Research Associate, Nanyang Technological University
 - **2024.10 - 2025.07**: Associate Member, Sea AI Lab.
 - **2023.09 - 2024.10**: Intern, Tencent AI Lab.
 - **2022.09 - 2025.06**: M.S., Tsinghua University.
