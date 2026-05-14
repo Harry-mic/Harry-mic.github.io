@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoyu Wang (王浩宇)"
-description              : "Focusing on the safety and self-improve of large language models."
+title                    : "Haoyu Wang   (王浩宇)"
+description              : "Focusing on the agentic RL for LLMs, world models, and more."
 repository               : "Harry-mic/Harry-mic.github.io"
 google_scholar_stats_use_cdn : true
 
