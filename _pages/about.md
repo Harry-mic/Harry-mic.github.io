@@ -31,8 +31,7 @@ redirect_from:
         Jiaotong University.
       </p>
       <p>
-        My recent work focuses on safety reasoning, lifelong safety alignment,
-        and improving model behavior with synthetic feedback and experience.
+        My recent work focuses on agentic rl, safety reasoning, lifelong alignment.
       </p>
     </section>
   
