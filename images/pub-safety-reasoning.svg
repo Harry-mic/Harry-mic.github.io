@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#fef2f2"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="28" fill="url(#g)"/>
+  <rect x="108" y="92" width="424" height="186" rx="24" fill="#ffffff" stroke="#fed7aa" stroke-width="8"/>
+  <path d="M178 152 H462 M178 196 H394 M178 240 H438" stroke="#ea580c" stroke-width="12" stroke-linecap="round" opacity=".8"/>
+  <circle cx="132" cy="152" r="10" fill="#f97316"/>
+  <circle cx="132" cy="196" r="10" fill="#f97316"/>
+  <circle cx="132" cy="240" r="10" fill="#f97316"/>
+  <path d="M478 78 L524 118 L478 158 L432 118 Z" fill="#ef4444" opacity=".82"/>
+  <text x="44" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#9a3412">Safety Reasoning</text>
+  <text x="44" y="320" font-family="Arial, sans-serif" font-size="18" fill="#475569">Guideline-based robust refusal</text>
+</svg>

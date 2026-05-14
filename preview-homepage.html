@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Haoyu Wang | Academic Homepage Preview</title>
+  <style>
+    :root {
+      --text: #111827;
+      --muted: #6b7280;
+      --line: #e5e7eb;
+      --bg: #ffffff;
+      --card: #f9fafb;
+      --accent: #2563eb;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px 60px;
+    }
+
+    .hero {
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 18px;
+      margin-bottom: 28px;
+    }
+
+    .kicker {
+      margin: 0;
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    h1 {
+      margin: 6px 0 6px;
+      font-size: 40px;
+      line-height: 1.15;
+    }
+
+    .tagline {
+      margin: 0 0 10px;
+      color: #374151;
+      max-width: 760px;
+    }
+
+    .links a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+
+    .links span {
+      color: #9ca3af;
+      margin: 0 8px;
+    }
+
+    h2 {
+      margin-top: 28px;
+      margin-bottom: 10px;
+      font-size: 24px;
+    }
+
+    p {
+      margin: 0 0 10px;
+    }
+
+    .focus-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      margin-top: 8px;
+    }
+
+    .focus-card {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 14px;
+      background: var(--card);
+    }
+
+    .focus-card h3 {
+      margin: 0 0 4px;
+      font-size: 16px;
+    }
+
+    .focus-card p {
+      margin: 0;
+      font-size: 14px;
+      color: #4b5563;
+    }
+
+    ul {
+      margin: 8px 0 0 0;
+      padding-left: 20px;
+    }
+
+    li {
+      margin: 8px 0;
+    }
+
+    .publication-list {
+      display: grid;
+      gap: 16px;
+      margin-top: 12px;
+    }
+
+    .publication-card {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: 18px;
+      align-items: center;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 14px;
+      background: #fff;
+      box-shadow: 0 12px 32px rgba(15, 23, 42, 0.05);
+    }
+
+    .publication-card img {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: var(--card);
+    }
+
+    .paper-title {
+      margin: 0 0 4px;
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 1.35;
+    }
+
+    .venue {
+      display: inline-block;
+      margin-bottom: 7px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: #eff6ff;
+      color: #1d4ed8;
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    .authors {
+      margin-bottom: 8px;
+      color: #4b5563;
+      font-size: 14px;
+    }
+
+    .paper-links a {
+      color: var(--accent);
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .paper-links a:hover {
+      text-decoration: underline;
+    }
+
+    .footer-note {
+      margin-top: 36px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    @media (max-width: 860px) {
+      h1 {
+        font-size: 34px;
+      }
+
+      .focus-grid,
+      .publication-card {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <section class="hero">
+      <p class="kicker">AI Safety and Alignment</p>
+      <h1>Haoyu Wang</h1>
+      <p class="tagline">
+        Building reliable and safe large language models through alignment and
+        synthetic-data-driven learning.
+      </p>
+      <p class="links">
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=l_QMtXYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+        <span>&middot;</span>
+        <a href="https://www.linkedin.com/in/%E6%B5%A9%E5%AE%87-%E7%8E%8B-b958532a7" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <span>&middot;</span>
+        <a href="https://github.com/Harry-mic" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <span>&middot;</span>
+        <a href="mailto:haoyu-wa22@tsinghua.org.cn">Email</a>
+      </p>
+    </section>
+
+    <section>
+      <h2>About</h2>
+      <p>
+        I am an incoming researcher working on AI alignment and safety for
+        large language models. I received my M.S. from Tsinghua University
+        (SIGS), advised by Prof. Xueqian Wang, and my B.Eng. from Xi'an
+        Jiaotong University.
+      </p>
+      <p>
+        My recent work focuses on safety reasoning, lifelong safety alignment,
+        and improving model behavior with synthetic feedback and experience.
+      </p>
+    </section>
+
+    <section>
+      <h2>Research Focus</h2>
+      <div class="focus-grid">
+        <article class="focus-card">
+          <h3>LLM Safety Alignment</h3>
+          <p>
+            Training and evaluation methods that make language models reliably
+            follow safety principles under distribution shift.
+          </p>
+        </article>
+        <article class="focus-card">
+          <h3>Safety Reasoning</h3>
+          <p>
+            Eliciting and strengthening internal safety reasoning to improve
+            robustness against jailbreak and adversarial prompts.
+          </p>
+        </article>
+        <article class="focus-card">
+          <h3>Synthetic Data for Improvement</h3>
+          <p>
+            Using model-generated experience and feedback loops to scale
+            post-training and self-improvement.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>Selected Publications</h2>
+      <div class="publication-list">
+        <article class="publication-card">
+          <img src="images/pub-scout.svg" alt="SCOUT paper thumbnail" />
+          <div>
+            <p class="paper-title">Language-based Trial and Error Falls Behind in the Era of Experience</p>
+            <span class="venue">Preprint, 2026</span>
+            <p class="authors">Haoyu Wang, Guozheng Ma, Shugang Cui, Yilun Kong, Haotian Luo, Li Shen, Mengya Gao, Yichao Wu, Xiaogang Wang, Dacheng Tao</p>
+            <p class="paper-links">
+              <a href="https://arxiv.org/pdf/2601.21754" target="_blank" rel="noopener noreferrer">Paper</a>
+              &nbsp;/&nbsp;
+              <a href="https://github.com/Harry-mic/SCOUT" target="_blank" rel="noopener noreferrer">Project</a>
+            </p>
+          </div>
+        </article>
+
+        <article class="publication-card">
+          <img src="images/pub-lifelong-safety.svg" alt="Lifelong safety alignment paper thumbnail" />
+          <div>
+            <p class="paper-title">Lifelong Safety Alignment for Language Models</p>
+            <span class="venue">NeurIPS 2025</span>
+            <p class="authors">Haoyu Wang, Zeyu Qin, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang</p>
+            <p class="paper-links">
+              <a href="https://arxiv.org/abs/2505.20259" target="_blank" rel="noopener noreferrer">Paper</a>
+              &nbsp;/&nbsp;
+              <a href="https://github.com/sail-sg/LifelongSafetyAlignment" target="_blank" rel="noopener noreferrer">Project</a>
+            </p>
+          </div>
+        </article>
+
+        <article class="publication-card">
+          <img src="images/pub-safety-reasoning.svg" alt="Safety reasoning paper thumbnail" />
+          <div>
+            <p class="paper-title">Safety Reasoning with Guidelines</p>
+            <span class="venue">ICML 2025</span>
+            <p class="authors">Haoyu Wang, Zeyu Qin, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng</p>
+            <p class="paper-links">
+              <a href="https://openreview.net/pdf?id=BHwWLeXDYF" target="_blank" rel="noopener noreferrer">Paper</a>
+            </p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>News</h2>
+      <ul>
+        <li>2025.09: One paper accepted by NeurIPS 2025.</li>
+        <li>2025.05: Two papers accepted by ICML 2025.</li>
+        <li>2025.02: One paper accepted by TMLR.</li>
+        <li>2023.09: One paper accepted by NeurIPS 2023.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Experience and Education</h2>
+      <ul>
+        <li>2024.10 - 2025.07: Associate Member, Sea AI Lab.</li>
+        <li>2023.09 - 2024.10: Intern, Tencent AI Lab.</li>
+        <li>2022.09 - 2025.06: M.S., Tsinghua University.</li>
+        <li>2018.09 - 2022.06: B.Eng., Xi'an Jiaotong University.</li>
+      </ul>
+    </section>
+
+    <p class="footer-note">
+      This is a standalone preview page for quick browser viewing.
+    </p>
+  </main>
+</body>
+</html>

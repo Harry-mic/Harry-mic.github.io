@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset="1" stop-color="#f0fdf4"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="28" fill="url(#g)"/>
+  <path d="M320 66 L498 132 V240 C498 286 418 320 320 330 C222 320 142 286 142 240 V132 Z" fill="#0f766e" opacity=".14"/>
+  <path d="M320 86 L470 142 V236 C470 272 402 300 320 310 C238 300 170 272 170 236 V142 Z" fill="none" stroke="#0f766e" stroke-width="12"/>
+  <path d="M240 210 L292 260 L410 156" fill="none" stroke="#14b8a6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="214" cy="112" r="18" fill="#14b8a6"/>
+  <circle cx="426" cy="112" r="18" fill="#22c55e"/>
+  <text x="44" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#115e59">Lifelong Safety</text>
+  <text x="44" y="320" font-family="Arial, sans-serif" font-size="18" fill="#475569">Continual alignment across time</text>
+</svg>

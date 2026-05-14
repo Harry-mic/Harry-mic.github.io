@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e0f2fe"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="28" fill="url(#g)"/>
+  <rect x="104" y="118" width="432" height="124" rx="24" fill="#ffffff" stroke="#bae6fd" stroke-width="8"/>
+  <text x="136" y="196" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#075985">word</text>
+  <path d="M310 176 H486" stroke="#0284c7" stroke-width="12" stroke-linecap="round"/>
+  <path d="M442 134 L494 176 L442 218" fill="none" stroke="#0284c7" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="44" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#075985">LLM Robustness</text>
+  <text x="44" y="320" font-family="Arial, sans-serif" font-size="18" fill="#475569">Word-level perturbation analysis</text>
+</svg>
