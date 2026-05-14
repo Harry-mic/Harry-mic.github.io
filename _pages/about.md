@@ -69,7 +69,7 @@ redirect_from:
     <img src="images/fs0.png" alt="SCOUT paper thumbnail">
     <div>
       <h3>Language-based Trial and Error Falls Behind in the Era of Experience</h3>
-      <span class="venue">Preprint, 2026</span>
+      <span class="venue">ICML 2026</span>
       <p>Haoyu Wang, Guozheng Ma, Shugang Cui, Yilun Kong, Haotian Luo, Li Shen, Mengya Gao, Yichao Wu, Xiaogang Wang, Dacheng Tao.</p>
       <p class="paper-links"><a href="https://arxiv.org/pdf/2601.21754">Paper</a> / <a href="https://github.com/Harry-mic/SCOUT">Project</a></p>
     </div>
