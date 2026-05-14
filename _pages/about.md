@@ -15,7 +15,7 @@ redirect_from:
   <p class="home-links">
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=l_QMtXYAAAAJ">Google Scholar</a>
     <span>&middot;</span>
-    <a href="https://www.linkedin.com/in/%E6%B5%A9%E5%AE%87-%E7%8E%8B-b958532a7">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/haoyu-wang-b958532a7/">LinkedIn</a>
     <span>&middot;</span>
     <a href="https://github.com/Harry-mic">GitHub</a>
     <span>&middot;</span>
