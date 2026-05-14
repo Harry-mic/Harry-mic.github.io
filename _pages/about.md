@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <section class="home-hero">
-  <p class="home-kicker">AI Safety and Alignment</p>
+  <p class="home-kicker">Sample Efficient Agent</p>
   <h1 class="home-name">Haoyu Wang</h1>
   <p class="home-tagline">Sample efficient agentic RL for LLMs, world models, and more.</p>
   <p class="home-links">
